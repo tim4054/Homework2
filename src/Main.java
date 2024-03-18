@@ -59,7 +59,7 @@ public class Main {
         var num2 = 78.2;
         var remainder = num1 % num2;
         System.out.println(remainder);
-        System.out.println("_________________________");
+        System.out.println("________________________");
 
         //Задача №8
         var totalTime = 640;
